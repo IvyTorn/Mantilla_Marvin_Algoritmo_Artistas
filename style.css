@@ -192,3 +192,9 @@ button {
   color: var(--muted);
   padding-bottom: 28px;
 }
+
+/* Forzar SOLO el texto de los artistas (A y B) */
+#labelA,
+#labelB{
+  color: #ffffff !important;
+}
