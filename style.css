@@ -149,7 +149,11 @@ button {
   font-weight: 900;
 }
 
-.title { vertical-align: middle; }
+.title {
+  vertical-align: middle;
+  color: var(--text); /* blanco */
+}
+
 
 .topbox {
   background: var(--panel2);
